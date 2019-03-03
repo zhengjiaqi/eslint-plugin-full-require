@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-full-require",
+  "version": "0.0.1",
+  "description": "eslint check for full require.",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "full require"
+  ],
+  "author": "zhengjiaqi",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {
+    "minimatch": "^3.0.4"
+  },
+  "devDependencies": {
+    "eslint": "2.7.0",
+    "mocha": "^3.1.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT"
+}
