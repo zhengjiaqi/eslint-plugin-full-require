@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-full-require",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "eslint check for full require.",
   "keywords": [
     "eslint",

@@ -59,7 +59,7 @@ For example:
 ```
 {
     "rules": {
-        "full-require/full-require": ["error", "lodash", "underscore"]
+        "full-require/full-require": ["error", "lodash", "underscore"],
         "full-require/not-allow": ["error", "lodash/fp/**"]
     }
 }
