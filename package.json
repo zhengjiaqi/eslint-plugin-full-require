@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-full-require",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "eslint check for full require.",
   "keywords": [
     "eslint",
@@ -9,6 +9,7 @@
     "full require"
   ],
   "author": "zhengjiaqi",
+  "homepage": "https://github.com/zhengjiaqi/eslint-plugin-full-require",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha tests --recursive"

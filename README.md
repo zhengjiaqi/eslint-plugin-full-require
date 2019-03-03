@@ -1,8 +1,8 @@
-# eslint-plugin-pangu-comment
+# eslint-plugin-full-require
 
 Eslint check for full require. e.g., lodash.
 
-![example](./example.gif)
+![example](https://i.loli.net/2019/03/03/5c7bf0dea68ed.gif)
 
 ## Installation
 
